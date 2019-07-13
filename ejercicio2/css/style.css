@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    background-image: url("../img/background.jpeg");
+    background-size: cover;
+    color: white;
+    padding: 10% 0px;
+}
+.imagenPerfil {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    border: 5px solid white;
+}
